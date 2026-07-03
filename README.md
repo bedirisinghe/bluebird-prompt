@@ -19,9 +19,7 @@ A lightweight ZSH prompt featuring a clean Powerline-style design, Git branch in
 brew tap bedirisinghe/bluebird-prompt https://github.com/bedirisinghe/bluebird-prompt
 brew install --HEAD bedirisinghe/bluebird-prompt/bluebird-prompt
 ```
-
 Then follow the post-install instructions printed by Homebrew (add the `source` line to `~/.zshrc` and set your terminal font).
-
 ### Manual
 
 ```sh
